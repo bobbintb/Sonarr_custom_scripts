@@ -1,1 +1,2 @@
-# Sonarr_custom_scripts
+# Sonarr custom scripts
+This will be a repo for custom Sonarr and Radarr scripts.
